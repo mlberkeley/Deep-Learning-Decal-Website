@@ -1,5 +1,5 @@
 locale: "en-US"
-title: Deep Learning Decal# Title of your site
+title: Deep Learning Decal
 url: "https://ml.berkeleu.edu/decals/DLD/" # the base hostname & protocol for your site
 baseurl: "/decals/DLD" # the subpath of your site, e.g. /blog/
 google_analytics_key: ""
